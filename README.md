@@ -1,9 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I’m @LaunchHubOS
-
-### 🚨 **NO CURRENT TOKEN**  
-> **Any token will be listed here if legit.**
+### 🚨 **NO CURRENT TOKEN** 🚨
+**Any token will be listed here if legit.**
 
 ---
 
